@@ -8,6 +8,7 @@ import Nav from "./Nav";
 function App() {
   return (
     <div className="app">
+      <h2>degişiklik</h2>
       <Nav />
       <Banner />
       <Row
